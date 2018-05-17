@@ -15,7 +15,7 @@ Nähere Infos zur Organisation der Übungen findet ihr
 
 |   | Nachname | Vorname | Matrikelnummer | Studienfach | Studiengang (B.Sc., M.Sc, ...) | Forum Username | Studentische E-Mail       |
 |---|----------|---------|----------------|-------------|--------------------------------|----------------|---------------------------|
-| 1.|          |         |                |             |                                |                | @student.uni-tuebingen.de |
+| 1.|  Asllani |  Bora   |    4232829     |  Informatik |  M.Sc                          |  zxmlj86       | bora.asllani@student.uni-tuebingen.de |
 | 2.|          |         |                |             |                                |                | @student.uni-tuebingen.de |
   
 # Punktestand (wird von Tutoren angepast)
